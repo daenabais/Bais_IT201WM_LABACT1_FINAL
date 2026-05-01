@@ -34,79 +34,79 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnupdate = new System.Windows.Forms.Button();
+            this.btnregistervehicle = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.regbox = new System.Windows.Forms.GroupBox();
-            this.txtplate = new System.Windows.Forms.TextBox();
-            this.txthours = new System.Windows.Forms.TextBox();
-            this.txtslot = new System.Windows.Forms.TextBox();
-            this.cbxvehicle = new System.Windows.Forms.ComboBox();
-            this.A1 = new System.Windows.Forms.Button();
-            this.A2 = new System.Windows.Forms.Button();
-            this.A4 = new System.Windows.Forms.Button();
-            this.A3 = new System.Windows.Forms.Button();
-            this.A5 = new System.Windows.Forms.Button();
-            this.B5 = new System.Windows.Forms.Button();
-            this.B4 = new System.Windows.Forms.Button();
-            this.B3 = new System.Windows.Forms.Button();
-            this.B2 = new System.Windows.Forms.Button();
-            this.B1 = new System.Windows.Forms.Button();
-            this.C5 = new System.Windows.Forms.Button();
-            this.C4 = new System.Windows.Forms.Button();
-            this.C3 = new System.Windows.Forms.Button();
-            this.C2 = new System.Windows.Forms.Button();
-            this.C1 = new System.Windows.Forms.Button();
-            this.D5 = new System.Windows.Forms.Button();
-            this.D4 = new System.Windows.Forms.Button();
-            this.D3 = new System.Windows.Forms.Button();
-            this.D2 = new System.Windows.Forms.Button();
-            this.D1 = new System.Windows.Forms.Button();
-            this.E5 = new System.Windows.Forms.Button();
-            this.E4 = new System.Windows.Forms.Button();
-            this.E3 = new System.Windows.Forms.Button();
-            this.E2 = new System.Windows.Forms.Button();
-            this.E1 = new System.Windows.Forms.Button();
-            this.F5 = new System.Windows.Forms.Button();
-            this.F4 = new System.Windows.Forms.Button();
-            this.F3 = new System.Windows.Forms.Button();
-            this.F2 = new System.Windows.Forms.Button();
-            this.F1 = new System.Windows.Forms.Button();
             this.G5 = new System.Windows.Forms.Button();
             this.G4 = new System.Windows.Forms.Button();
             this.G3 = new System.Windows.Forms.Button();
             this.G2 = new System.Windows.Forms.Button();
             this.G1 = new System.Windows.Forms.Button();
+            this.E5 = new System.Windows.Forms.Button();
+            this.E4 = new System.Windows.Forms.Button();
+            this.E3 = new System.Windows.Forms.Button();
+            this.E2 = new System.Windows.Forms.Button();
+            this.E1 = new System.Windows.Forms.Button();
+            this.D5 = new System.Windows.Forms.Button();
+            this.D4 = new System.Windows.Forms.Button();
+            this.D3 = new System.Windows.Forms.Button();
+            this.D2 = new System.Windows.Forms.Button();
+            this.D1 = new System.Windows.Forms.Button();
+            this.C5 = new System.Windows.Forms.Button();
+            this.C4 = new System.Windows.Forms.Button();
+            this.C3 = new System.Windows.Forms.Button();
+            this.C2 = new System.Windows.Forms.Button();
+            this.C1 = new System.Windows.Forms.Button();
+            this.B5 = new System.Windows.Forms.Button();
+            this.B4 = new System.Windows.Forms.Button();
+            this.B3 = new System.Windows.Forms.Button();
+            this.B2 = new System.Windows.Forms.Button();
+            this.B1 = new System.Windows.Forms.Button();
+            this.A5 = new System.Windows.Forms.Button();
+            this.A4 = new System.Windows.Forms.Button();
+            this.A3 = new System.Windows.Forms.Button();
+            this.A2 = new System.Windows.Forms.Button();
+            this.A1 = new System.Windows.Forms.Button();
+            this.regbox = new System.Windows.Forms.GroupBox();
+            this.cbxvehicle = new System.Windows.Forms.ComboBox();
+            this.txtslot = new System.Windows.Forms.TextBox();
+            this.txthours = new System.Windows.Forms.TextBox();
+            this.txtplate = new System.Windows.Forms.TextBox();
+            this.F5 = new System.Windows.Forms.Button();
+            this.F4 = new System.Windows.Forms.Button();
+            this.F3 = new System.Windows.Forms.Button();
+            this.F2 = new System.Windows.Forms.Button();
+            this.F1 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
+            this.displayovertime = new System.Windows.Forms.Label();
+            this.displayslot = new System.Windows.Forms.Label();
+            this.displayduration = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.displayvehicle = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.displayplatenumber = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.displaytotal = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
+            this.displayservicecharge = new System.Windows.Forms.Label();
+            this.displaystandardfee = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.rtxtreceipt = new System.Windows.Forms.RichTextBox();
+            this.txtpayamount = new System.Windows.Forms.TextBox();
+            this.cbxdiscount = new System.Windows.Forms.ComboBox();
+            this.displaychange = new System.Windows.Forms.Label();
+            this.btnclear = new System.Windows.Forms.Button();
+            this.btngenerate = new System.Windows.Forms.Button();
+            this.btnprocess = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
-            this.btnregistervehicle = new System.Windows.Forms.Button();
-            this.btnupdate = new System.Windows.Forms.Button();
-            this.btnclear = new System.Windows.Forms.Button();
-            this.btnprocess = new System.Windows.Forms.Button();
-            this.btngenerate = new System.Windows.Forms.Button();
-            this.displaytotal = new System.Windows.Forms.Label();
-            this.displayduration = new System.Windows.Forms.Label();
-            this.displayvehicle = new System.Windows.Forms.Label();
-            this.displayplatenumber = new System.Windows.Forms.Label();
-            this.displayslot = new System.Windows.Forms.Label();
-            this.displayovertime = new System.Windows.Forms.Label();
-            this.displayservicecharge = new System.Windows.Forms.Label();
-            this.displaystandardfee = new System.Windows.Forms.Label();
-            this.displaychange = new System.Windows.Forms.Label();
-            this.cbxdiscount = new System.Windows.Forms.ComboBox();
-            this.txtpayamount = new System.Windows.Forms.TextBox();
-            this.rtxtreceipt = new System.Windows.Forms.RichTextBox();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.regbox.SuspendLayout();
@@ -119,49 +119,85 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label1.Location = new System.Drawing.Point(13, 30);
+            this.label1.Location = new System.Drawing.Point(17, 37);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 13);
+            this.label1.Size = new System.Drawing.Size(92, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Plate Number:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(13, 66);
+            this.label2.Location = new System.Drawing.Point(17, 81);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(72, 13);
+            this.label2.Size = new System.Drawing.Size(90, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Vehicle Type:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(13, 105);
+            this.label3.Location = new System.Drawing.Point(17, 129);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(75, 13);
+            this.label3.Size = new System.Drawing.Size(93, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "Hours Parked:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(13, 148);
+            this.label4.Location = new System.Drawing.Point(17, 182);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(74, 13);
+            this.label4.Size = new System.Drawing.Size(93, 16);
             this.label4.TabIndex = 3;
             this.label4.Text = "Assigned Slot:";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.btnupdate);
             this.groupBox1.Controls.Add(this.btnregistervehicle);
-            this.groupBox1.Location = new System.Drawing.Point(12, 267);
+            this.groupBox1.Location = new System.Drawing.Point(16, 329);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 214);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox1.Size = new System.Drawing.Size(267, 263);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Actions";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            // 
+            // btnupdate
+            // 
+            this.btnupdate.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnupdate.Location = new System.Drawing.Point(52, 160);
+            this.btnupdate.Margin = new System.Windows.Forms.Padding(4);
+            this.btnupdate.Name = "btnupdate";
+            this.btnupdate.Size = new System.Drawing.Size(171, 44);
+            this.btnupdate.TabIndex = 31;
+            this.btnupdate.Text = "Update Status\r\n";
+            this.btnupdate.UseVisualStyleBackColor = true;
+            this.btnupdate.Click += new System.EventHandler(this.btnupdate_Click);
+            // 
+            // btnregistervehicle
+            // 
+            this.btnregistervehicle.BackColor = System.Drawing.SystemColors.ControlText;
+            this.btnregistervehicle.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnregistervehicle.Location = new System.Drawing.Point(52, 87);
+            this.btnregistervehicle.Margin = new System.Windows.Forms.Padding(4);
+            this.btnregistervehicle.Name = "btnregistervehicle";
+            this.btnregistervehicle.Size = new System.Drawing.Size(171, 44);
+            this.btnregistervehicle.TabIndex = 30;
+            this.btnregistervehicle.Text = "Register Vehicle";
+            this.btnregistervehicle.UseVisualStyleBackColor = false;
+            this.btnregistervehicle.Click += new System.EventHandler(this.btnregistervehicle_Click);
             // 
             // groupBox2
             // 
@@ -196,13 +232,405 @@
             this.groupBox2.Controls.Add(this.A2);
             this.groupBox2.Controls.Add(this.A1);
             this.groupBox2.ForeColor = System.Drawing.Color.Black;
-            this.groupBox2.Location = new System.Drawing.Point(226, 55);
+            this.groupBox2.Location = new System.Drawing.Point(301, 68);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(413, 426);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Size = new System.Drawing.Size(551, 524);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Parking Status";
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
+            // 
+            // G5
+            // 
+            this.G5.BackColor = System.Drawing.Color.Lime;
+            this.G5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.G5.Location = new System.Drawing.Point(449, 455);
+            this.G5.Margin = new System.Windows.Forms.Padding(4);
+            this.G5.Name = "G5";
+            this.G5.Size = new System.Drawing.Size(75, 44);
+            this.G5.TabIndex = 29;
+            this.G5.Text = "G5";
+            this.G5.UseVisualStyleBackColor = false;
+            this.G5.Click += new System.EventHandler(this.G5_Click);
+            // 
+            // G4
+            // 
+            this.G4.BackColor = System.Drawing.Color.Lime;
+            this.G4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.G4.Location = new System.Drawing.Point(343, 455);
+            this.G4.Margin = new System.Windows.Forms.Padding(4);
+            this.G4.Name = "G4";
+            this.G4.Size = new System.Drawing.Size(75, 44);
+            this.G4.TabIndex = 28;
+            this.G4.Text = "G4";
+            this.G4.UseVisualStyleBackColor = false;
+            this.G4.Click += new System.EventHandler(this.G4_Click);
+            // 
+            // G3
+            // 
+            this.G3.BackColor = System.Drawing.Color.Lime;
+            this.G3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.G3.Location = new System.Drawing.Point(237, 455);
+            this.G3.Margin = new System.Windows.Forms.Padding(4);
+            this.G3.Name = "G3";
+            this.G3.Size = new System.Drawing.Size(75, 44);
+            this.G3.TabIndex = 27;
+            this.G3.Text = "G3";
+            this.G3.UseVisualStyleBackColor = false;
+            this.G3.Click += new System.EventHandler(this.G3_Click);
+            // 
+            // G2
+            // 
+            this.G2.BackColor = System.Drawing.Color.Lime;
+            this.G2.ForeColor = System.Drawing.Color.OliveDrab;
+            this.G2.Location = new System.Drawing.Point(132, 455);
+            this.G2.Margin = new System.Windows.Forms.Padding(4);
+            this.G2.Name = "G2";
+            this.G2.Size = new System.Drawing.Size(75, 44);
+            this.G2.TabIndex = 26;
+            this.G2.Text = "G2";
+            this.G2.UseVisualStyleBackColor = false;
+            this.G2.Click += new System.EventHandler(this.G2_Click);
+            // 
+            // G1
+            // 
+            this.G1.BackColor = System.Drawing.Color.Lime;
+            this.G1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.G1.Location = new System.Drawing.Point(27, 455);
+            this.G1.Margin = new System.Windows.Forms.Padding(4);
+            this.G1.Name = "G1";
+            this.G1.Size = new System.Drawing.Size(75, 44);
+            this.G1.TabIndex = 25;
+            this.G1.Text = "G1";
+            this.G1.UseVisualStyleBackColor = false;
+            this.G1.Click += new System.EventHandler(this.G1_Click);
+            // 
+            // E5
+            // 
+            this.E5.BackColor = System.Drawing.Color.Lime;
+            this.E5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.E5.Location = new System.Drawing.Point(449, 313);
+            this.E5.Margin = new System.Windows.Forms.Padding(4);
+            this.E5.Name = "E5";
+            this.E5.Size = new System.Drawing.Size(75, 44);
+            this.E5.TabIndex = 24;
+            this.E5.Text = "E5";
+            this.E5.UseVisualStyleBackColor = false;
+            this.E5.Click += new System.EventHandler(this.E5_Click);
+            // 
+            // E4
+            // 
+            this.E4.BackColor = System.Drawing.Color.Lime;
+            this.E4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.E4.Location = new System.Drawing.Point(343, 313);
+            this.E4.Margin = new System.Windows.Forms.Padding(4);
+            this.E4.Name = "E4";
+            this.E4.Size = new System.Drawing.Size(75, 44);
+            this.E4.TabIndex = 23;
+            this.E4.Text = "E4";
+            this.E4.UseVisualStyleBackColor = false;
+            this.E4.Click += new System.EventHandler(this.E4_Click);
+            // 
+            // E3
+            // 
+            this.E3.BackColor = System.Drawing.Color.Lime;
+            this.E3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.E3.Location = new System.Drawing.Point(237, 313);
+            this.E3.Margin = new System.Windows.Forms.Padding(4);
+            this.E3.Name = "E3";
+            this.E3.Size = new System.Drawing.Size(75, 44);
+            this.E3.TabIndex = 22;
+            this.E3.Text = "E3";
+            this.E3.UseVisualStyleBackColor = false;
+            this.E3.Click += new System.EventHandler(this.E3_Click);
+            // 
+            // E2
+            // 
+            this.E2.BackColor = System.Drawing.Color.Lime;
+            this.E2.ForeColor = System.Drawing.Color.OliveDrab;
+            this.E2.Location = new System.Drawing.Point(132, 313);
+            this.E2.Margin = new System.Windows.Forms.Padding(4);
+            this.E2.Name = "E2";
+            this.E2.Size = new System.Drawing.Size(75, 44);
+            this.E2.TabIndex = 21;
+            this.E2.Text = "E2";
+            this.E2.UseVisualStyleBackColor = false;
+            this.E2.Click += new System.EventHandler(this.E2_Click);
+            // 
+            // E1
+            // 
+            this.E1.BackColor = System.Drawing.Color.Lime;
+            this.E1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.E1.Location = new System.Drawing.Point(27, 313);
+            this.E1.Margin = new System.Windows.Forms.Padding(4);
+            this.E1.Name = "E1";
+            this.E1.Size = new System.Drawing.Size(75, 44);
+            this.E1.TabIndex = 20;
+            this.E1.Text = "E1";
+            this.E1.UseVisualStyleBackColor = false;
+            this.E1.Click += new System.EventHandler(this.E1_Click);
+            // 
+            // D5
+            // 
+            this.D5.BackColor = System.Drawing.Color.Lime;
+            this.D5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.D5.Location = new System.Drawing.Point(451, 245);
+            this.D5.Margin = new System.Windows.Forms.Padding(4);
+            this.D5.Name = "D5";
+            this.D5.Size = new System.Drawing.Size(75, 44);
+            this.D5.TabIndex = 19;
+            this.D5.Text = "D5";
+            this.D5.UseVisualStyleBackColor = false;
+            this.D5.Click += new System.EventHandler(this.D5_Click);
+            // 
+            // D4
+            // 
+            this.D4.BackColor = System.Drawing.Color.Lime;
+            this.D4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.D4.Location = new System.Drawing.Point(344, 245);
+            this.D4.Margin = new System.Windows.Forms.Padding(4);
+            this.D4.Name = "D4";
+            this.D4.Size = new System.Drawing.Size(75, 44);
+            this.D4.TabIndex = 18;
+            this.D4.Text = "D4";
+            this.D4.UseVisualStyleBackColor = false;
+            this.D4.Click += new System.EventHandler(this.D4_Click);
+            // 
+            // D3
+            // 
+            this.D3.BackColor = System.Drawing.Color.Lime;
+            this.D3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.D3.Location = new System.Drawing.Point(239, 245);
+            this.D3.Margin = new System.Windows.Forms.Padding(4);
+            this.D3.Name = "D3";
+            this.D3.Size = new System.Drawing.Size(75, 44);
+            this.D3.TabIndex = 17;
+            this.D3.Text = "D3";
+            this.D3.UseVisualStyleBackColor = false;
+            this.D3.Click += new System.EventHandler(this.D3_Click);
+            // 
+            // D2
+            // 
+            this.D2.BackColor = System.Drawing.Color.Lime;
+            this.D2.ForeColor = System.Drawing.Color.OliveDrab;
+            this.D2.Location = new System.Drawing.Point(133, 245);
+            this.D2.Margin = new System.Windows.Forms.Padding(4);
+            this.D2.Name = "D2";
+            this.D2.Size = new System.Drawing.Size(75, 44);
+            this.D2.TabIndex = 16;
+            this.D2.Text = "D2";
+            this.D2.UseVisualStyleBackColor = false;
+            this.D2.Click += new System.EventHandler(this.D2_Click);
+            // 
+            // D1
+            // 
+            this.D1.BackColor = System.Drawing.Color.Lime;
+            this.D1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.D1.Location = new System.Drawing.Point(28, 245);
+            this.D1.Margin = new System.Windows.Forms.Padding(4);
+            this.D1.Name = "D1";
+            this.D1.Size = new System.Drawing.Size(75, 44);
+            this.D1.TabIndex = 15;
+            this.D1.Text = "D1";
+            this.D1.UseVisualStyleBackColor = false;
+            this.D1.Click += new System.EventHandler(this.button20_Click);
+            // 
+            // C5
+            // 
+            this.C5.BackColor = System.Drawing.Color.Lime;
+            this.C5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.C5.Location = new System.Drawing.Point(449, 176);
+            this.C5.Margin = new System.Windows.Forms.Padding(4);
+            this.C5.Name = "C5";
+            this.C5.Size = new System.Drawing.Size(75, 44);
+            this.C5.TabIndex = 14;
+            this.C5.Text = "C5";
+            this.C5.UseVisualStyleBackColor = false;
+            this.C5.Click += new System.EventHandler(this.C5_Click);
+            // 
+            // C4
+            // 
+            this.C4.BackColor = System.Drawing.Color.Lime;
+            this.C4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.C4.Location = new System.Drawing.Point(343, 176);
+            this.C4.Margin = new System.Windows.Forms.Padding(4);
+            this.C4.Name = "C4";
+            this.C4.Size = new System.Drawing.Size(75, 44);
+            this.C4.TabIndex = 13;
+            this.C4.Text = "C4";
+            this.C4.UseVisualStyleBackColor = false;
+            this.C4.Click += new System.EventHandler(this.C4_Click);
+            // 
+            // C3
+            // 
+            this.C3.BackColor = System.Drawing.Color.Lime;
+            this.C3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.C3.Location = new System.Drawing.Point(237, 176);
+            this.C3.Margin = new System.Windows.Forms.Padding(4);
+            this.C3.Name = "C3";
+            this.C3.Size = new System.Drawing.Size(75, 44);
+            this.C3.TabIndex = 12;
+            this.C3.Text = "C3";
+            this.C3.UseVisualStyleBackColor = false;
+            this.C3.Click += new System.EventHandler(this.C3_Click);
+            // 
+            // C2
+            // 
+            this.C2.BackColor = System.Drawing.Color.Lime;
+            this.C2.ForeColor = System.Drawing.Color.OliveDrab;
+            this.C2.Location = new System.Drawing.Point(132, 176);
+            this.C2.Margin = new System.Windows.Forms.Padding(4);
+            this.C2.Name = "C2";
+            this.C2.Size = new System.Drawing.Size(75, 44);
+            this.C2.TabIndex = 11;
+            this.C2.Text = "C2";
+            this.C2.UseVisualStyleBackColor = false;
+            this.C2.Click += new System.EventHandler(this.C2_Click);
+            // 
+            // C1
+            // 
+            this.C1.BackColor = System.Drawing.Color.Lime;
+            this.C1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.C1.Location = new System.Drawing.Point(27, 176);
+            this.C1.Margin = new System.Windows.Forms.Padding(4);
+            this.C1.Name = "C1";
+            this.C1.Size = new System.Drawing.Size(75, 44);
+            this.C1.TabIndex = 10;
+            this.C1.Text = "C1";
+            this.C1.UseVisualStyleBackColor = false;
+            this.C1.Click += new System.EventHandler(this.C1_Click);
+            // 
+            // B5
+            // 
+            this.B5.BackColor = System.Drawing.Color.Lime;
+            this.B5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.B5.Location = new System.Drawing.Point(451, 110);
+            this.B5.Margin = new System.Windows.Forms.Padding(4);
+            this.B5.Name = "B5";
+            this.B5.Size = new System.Drawing.Size(75, 44);
+            this.B5.TabIndex = 9;
+            this.B5.Text = "B5";
+            this.B5.UseVisualStyleBackColor = false;
+            this.B5.Click += new System.EventHandler(this.B5_Click);
+            // 
+            // B4
+            // 
+            this.B4.BackColor = System.Drawing.Color.Lime;
+            this.B4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.B4.Location = new System.Drawing.Point(344, 110);
+            this.B4.Margin = new System.Windows.Forms.Padding(4);
+            this.B4.Name = "B4";
+            this.B4.Size = new System.Drawing.Size(75, 44);
+            this.B4.TabIndex = 8;
+            this.B4.Text = "B4";
+            this.B4.UseVisualStyleBackColor = false;
+            this.B4.Click += new System.EventHandler(this.B4_Click);
+            // 
+            // B3
+            // 
+            this.B3.BackColor = System.Drawing.Color.Lime;
+            this.B3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.B3.Location = new System.Drawing.Point(239, 110);
+            this.B3.Margin = new System.Windows.Forms.Padding(4);
+            this.B3.Name = "B3";
+            this.B3.Size = new System.Drawing.Size(75, 44);
+            this.B3.TabIndex = 7;
+            this.B3.Text = "B3";
+            this.B3.UseVisualStyleBackColor = false;
+            this.B3.Click += new System.EventHandler(this.B3_Click);
+            // 
+            // B2
+            // 
+            this.B2.BackColor = System.Drawing.Color.Lime;
+            this.B2.ForeColor = System.Drawing.Color.OliveDrab;
+            this.B2.Location = new System.Drawing.Point(133, 110);
+            this.B2.Margin = new System.Windows.Forms.Padding(4);
+            this.B2.Name = "B2";
+            this.B2.Size = new System.Drawing.Size(75, 44);
+            this.B2.TabIndex = 6;
+            this.B2.Text = "B2";
+            this.B2.UseVisualStyleBackColor = false;
+            this.B2.Click += new System.EventHandler(this.B2_Click);
+            // 
+            // B1
+            // 
+            this.B1.BackColor = System.Drawing.Color.Lime;
+            this.B1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.B1.Location = new System.Drawing.Point(28, 110);
+            this.B1.Margin = new System.Windows.Forms.Padding(4);
+            this.B1.Name = "B1";
+            this.B1.Size = new System.Drawing.Size(75, 44);
+            this.B1.TabIndex = 5;
+            this.B1.Text = "B1";
+            this.B1.UseVisualStyleBackColor = false;
+            this.B1.Click += new System.EventHandler(this.B1_Click);
+            // 
+            // A5
+            // 
+            this.A5.BackColor = System.Drawing.Color.Lime;
+            this.A5.ForeColor = System.Drawing.Color.OliveDrab;
+            this.A5.Location = new System.Drawing.Point(449, 42);
+            this.A5.Margin = new System.Windows.Forms.Padding(4);
+            this.A5.Name = "A5";
+            this.A5.Size = new System.Drawing.Size(75, 44);
+            this.A5.TabIndex = 4;
+            this.A5.Text = "A5";
+            this.A5.UseVisualStyleBackColor = false;
+            this.A5.Click += new System.EventHandler(this.A5_Click);
+            // 
+            // A4
+            // 
+            this.A4.BackColor = System.Drawing.Color.Lime;
+            this.A4.ForeColor = System.Drawing.Color.OliveDrab;
+            this.A4.Location = new System.Drawing.Point(343, 42);
+            this.A4.Margin = new System.Windows.Forms.Padding(4);
+            this.A4.Name = "A4";
+            this.A4.Size = new System.Drawing.Size(75, 44);
+            this.A4.TabIndex = 3;
+            this.A4.Text = "A4";
+            this.A4.UseVisualStyleBackColor = false;
+            this.A4.Click += new System.EventHandler(this.A4_Click);
+            // 
+            // A3
+            // 
+            this.A3.BackColor = System.Drawing.Color.Lime;
+            this.A3.ForeColor = System.Drawing.Color.OliveDrab;
+            this.A3.Location = new System.Drawing.Point(237, 42);
+            this.A3.Margin = new System.Windows.Forms.Padding(4);
+            this.A3.Name = "A3";
+            this.A3.Size = new System.Drawing.Size(75, 44);
+            this.A3.TabIndex = 2;
+            this.A3.Text = "A3";
+            this.A3.UseVisualStyleBackColor = false;
+            this.A3.Click += new System.EventHandler(this.A3_Click);
+            // 
+            // A2
+            // 
+            this.A2.BackColor = System.Drawing.Color.Lime;
+            this.A2.ForeColor = System.Drawing.Color.MediumSeaGreen;
+            this.A2.Location = new System.Drawing.Point(132, 42);
+            this.A2.Margin = new System.Windows.Forms.Padding(4);
+            this.A2.Name = "A2";
+            this.A2.Size = new System.Drawing.Size(75, 44);
+            this.A2.TabIndex = 1;
+            this.A2.Text = "A2";
+            this.A2.UseVisualStyleBackColor = false;
+            this.A2.Click += new System.EventHandler(this.A2_Click);
+            // 
+            // A1
+            // 
+            this.A1.BackColor = System.Drawing.Color.Lime;
+            this.A1.ForeColor = System.Drawing.Color.OliveDrab;
+            this.A1.Location = new System.Drawing.Point(27, 42);
+            this.A1.Margin = new System.Windows.Forms.Padding(4);
+            this.A1.Name = "A1";
+            this.A1.Size = new System.Drawing.Size(75, 44);
+            this.A1.TabIndex = 0;
+            this.A1.Text = "A1";
+            this.A1.UseVisualStyleBackColor = false;
+            this.A1.Click += new System.EventHandler(this.A1_Click);
             // 
             // regbox
             // 
@@ -214,353 +642,60 @@
             this.regbox.Controls.Add(this.label3);
             this.regbox.Controls.Add(this.label1);
             this.regbox.Controls.Add(this.label4);
-            this.regbox.Location = new System.Drawing.Point(12, 55);
+            this.regbox.Location = new System.Drawing.Point(16, 68);
+            this.regbox.Margin = new System.Windows.Forms.Padding(4);
             this.regbox.Name = "regbox";
-            this.regbox.Size = new System.Drawing.Size(200, 206);
+            this.regbox.Padding = new System.Windows.Forms.Padding(4);
+            this.regbox.Size = new System.Drawing.Size(267, 254);
             this.regbox.TabIndex = 6;
             this.regbox.TabStop = false;
             this.regbox.Text = "Vehicle Registration";
             // 
-            // txtplate
-            // 
-            this.txtplate.Location = new System.Drawing.Point(16, 46);
-            this.txtplate.Name = "txtplate";
-            this.txtplate.Size = new System.Drawing.Size(167, 20);
-            this.txtplate.TabIndex = 4;
-            this.txtplate.TextChanged += new System.EventHandler(this.txtplate_TextChanged);
-            // 
-            // txthours
-            // 
-            this.txthours.Location = new System.Drawing.Point(16, 121);
-            this.txthours.Name = "txthours";
-            this.txthours.Size = new System.Drawing.Size(167, 20);
-            this.txthours.TabIndex = 5;
-            this.txthours.TextChanged += new System.EventHandler(this.txthours_TextChanged);
-            // 
-            // txtslot
-            // 
-            this.txtslot.Location = new System.Drawing.Point(16, 164);
-            this.txtslot.Name = "txtslot";
-            this.txtslot.Size = new System.Drawing.Size(167, 20);
-            this.txtslot.TabIndex = 6;
-            this.txtslot.TextChanged += new System.EventHandler(this.txtslot_TextChanged);
-            // 
             // cbxvehicle
             // 
             this.cbxvehicle.FormattingEnabled = true;
-            this.cbxvehicle.Location = new System.Drawing.Point(16, 81);
+            this.cbxvehicle.Location = new System.Drawing.Point(21, 100);
+            this.cbxvehicle.Margin = new System.Windows.Forms.Padding(4);
             this.cbxvehicle.Name = "cbxvehicle";
-            this.cbxvehicle.Size = new System.Drawing.Size(167, 21);
+            this.cbxvehicle.Size = new System.Drawing.Size(221, 24);
             this.cbxvehicle.TabIndex = 7;
             this.cbxvehicle.SelectedIndexChanged += new System.EventHandler(this.cbxvehicle_SelectedIndexChanged);
             // 
-            // A1
+            // txtslot
             // 
-            this.A1.BackColor = System.Drawing.Color.Lime;
-            this.A1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.A1.Location = new System.Drawing.Point(20, 34);
-            this.A1.Name = "A1";
-            this.A1.Size = new System.Drawing.Size(56, 36);
-            this.A1.TabIndex = 0;
-            this.A1.Text = "A1";
-            this.A1.UseVisualStyleBackColor = false;
-            this.A1.Click += new System.EventHandler(this.A1_Click);
+            this.txtslot.Location = new System.Drawing.Point(21, 202);
+            this.txtslot.Margin = new System.Windows.Forms.Padding(4);
+            this.txtslot.Name = "txtslot";
+            this.txtslot.Size = new System.Drawing.Size(221, 22);
+            this.txtslot.TabIndex = 6;
+            this.txtslot.TextChanged += new System.EventHandler(this.txtslot_TextChanged);
             // 
-            // A2
+            // txthours
             // 
-            this.A2.BackColor = System.Drawing.Color.Lime;
-            this.A2.ForeColor = System.Drawing.Color.MediumSeaGreen;
-            this.A2.Location = new System.Drawing.Point(99, 34);
-            this.A2.Name = "A2";
-            this.A2.Size = new System.Drawing.Size(56, 36);
-            this.A2.TabIndex = 1;
-            this.A2.Text = "A2";
-            this.A2.UseVisualStyleBackColor = false;
-            this.A2.Click += new System.EventHandler(this.A2_Click);
+            this.txthours.Location = new System.Drawing.Point(21, 149);
+            this.txthours.Margin = new System.Windows.Forms.Padding(4);
+            this.txthours.Name = "txthours";
+            this.txthours.Size = new System.Drawing.Size(221, 22);
+            this.txthours.TabIndex = 5;
+            this.txthours.TextChanged += new System.EventHandler(this.txthours_TextChanged);
             // 
-            // A4
+            // txtplate
             // 
-            this.A4.BackColor = System.Drawing.Color.Lime;
-            this.A4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.A4.Location = new System.Drawing.Point(257, 34);
-            this.A4.Name = "A4";
-            this.A4.Size = new System.Drawing.Size(56, 36);
-            this.A4.TabIndex = 3;
-            this.A4.Text = "A4";
-            this.A4.UseVisualStyleBackColor = false;
-            this.A4.Click += new System.EventHandler(this.A4_Click);
-            // 
-            // A3
-            // 
-            this.A3.BackColor = System.Drawing.Color.Lime;
-            this.A3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.A3.Location = new System.Drawing.Point(178, 34);
-            this.A3.Name = "A3";
-            this.A3.Size = new System.Drawing.Size(56, 36);
-            this.A3.TabIndex = 2;
-            this.A3.Text = "A3";
-            this.A3.UseVisualStyleBackColor = false;
-            this.A3.Click += new System.EventHandler(this.A3_Click);
-            // 
-            // A5
-            // 
-            this.A5.BackColor = System.Drawing.Color.Lime;
-            this.A5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.A5.Location = new System.Drawing.Point(337, 34);
-            this.A5.Name = "A5";
-            this.A5.Size = new System.Drawing.Size(56, 36);
-            this.A5.TabIndex = 4;
-            this.A5.Text = "A5";
-            this.A5.UseVisualStyleBackColor = false;
-            this.A5.Click += new System.EventHandler(this.A5_Click);
-            // 
-            // B5
-            // 
-            this.B5.BackColor = System.Drawing.Color.Lime;
-            this.B5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.B5.Location = new System.Drawing.Point(338, 89);
-            this.B5.Name = "B5";
-            this.B5.Size = new System.Drawing.Size(56, 36);
-            this.B5.TabIndex = 9;
-            this.B5.Text = "B5";
-            this.B5.UseVisualStyleBackColor = false;
-            this.B5.Click += new System.EventHandler(this.B5_Click);
-            // 
-            // B4
-            // 
-            this.B4.BackColor = System.Drawing.Color.Lime;
-            this.B4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.B4.Location = new System.Drawing.Point(258, 89);
-            this.B4.Name = "B4";
-            this.B4.Size = new System.Drawing.Size(56, 36);
-            this.B4.TabIndex = 8;
-            this.B4.Text = "B4";
-            this.B4.UseVisualStyleBackColor = false;
-            this.B4.Click += new System.EventHandler(this.B4_Click);
-            // 
-            // B3
-            // 
-            this.B3.BackColor = System.Drawing.Color.Lime;
-            this.B3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.B3.Location = new System.Drawing.Point(179, 89);
-            this.B3.Name = "B3";
-            this.B3.Size = new System.Drawing.Size(56, 36);
-            this.B3.TabIndex = 7;
-            this.B3.Text = "B3";
-            this.B3.UseVisualStyleBackColor = false;
-            this.B3.Click += new System.EventHandler(this.B3_Click);
-            // 
-            // B2
-            // 
-            this.B2.BackColor = System.Drawing.Color.Lime;
-            this.B2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.B2.Location = new System.Drawing.Point(100, 89);
-            this.B2.Name = "B2";
-            this.B2.Size = new System.Drawing.Size(56, 36);
-            this.B2.TabIndex = 6;
-            this.B2.Text = "B2";
-            this.B2.UseVisualStyleBackColor = false;
-            this.B2.Click += new System.EventHandler(this.B2_Click);
-            // 
-            // B1
-            // 
-            this.B1.BackColor = System.Drawing.Color.Lime;
-            this.B1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.B1.Location = new System.Drawing.Point(21, 89);
-            this.B1.Name = "B1";
-            this.B1.Size = new System.Drawing.Size(56, 36);
-            this.B1.TabIndex = 5;
-            this.B1.Text = "B1";
-            this.B1.UseVisualStyleBackColor = false;
-            this.B1.Click += new System.EventHandler(this.B1_Click);
-            // 
-            // C5
-            // 
-            this.C5.BackColor = System.Drawing.Color.Lime;
-            this.C5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.C5.Location = new System.Drawing.Point(337, 143);
-            this.C5.Name = "C5";
-            this.C5.Size = new System.Drawing.Size(56, 36);
-            this.C5.TabIndex = 14;
-            this.C5.Text = "C5";
-            this.C5.UseVisualStyleBackColor = false;
-            this.C5.Click += new System.EventHandler(this.C5_Click);
-            // 
-            // C4
-            // 
-            this.C4.BackColor = System.Drawing.Color.Lime;
-            this.C4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.C4.Location = new System.Drawing.Point(257, 143);
-            this.C4.Name = "C4";
-            this.C4.Size = new System.Drawing.Size(56, 36);
-            this.C4.TabIndex = 13;
-            this.C4.Text = "C4";
-            this.C4.UseVisualStyleBackColor = false;
-            this.C4.Click += new System.EventHandler(this.C4_Click);
-            // 
-            // C3
-            // 
-            this.C3.BackColor = System.Drawing.Color.Lime;
-            this.C3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.C3.Location = new System.Drawing.Point(178, 143);
-            this.C3.Name = "C3";
-            this.C3.Size = new System.Drawing.Size(56, 36);
-            this.C3.TabIndex = 12;
-            this.C3.Text = "C3";
-            this.C3.UseVisualStyleBackColor = false;
-            this.C3.Click += new System.EventHandler(this.C3_Click);
-            // 
-            // C2
-            // 
-            this.C2.BackColor = System.Drawing.Color.Lime;
-            this.C2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.C2.Location = new System.Drawing.Point(99, 143);
-            this.C2.Name = "C2";
-            this.C2.Size = new System.Drawing.Size(56, 36);
-            this.C2.TabIndex = 11;
-            this.C2.Text = "C2";
-            this.C2.UseVisualStyleBackColor = false;
-            this.C2.Click += new System.EventHandler(this.C2_Click);
-            // 
-            // C1
-            // 
-            this.C1.BackColor = System.Drawing.Color.Lime;
-            this.C1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.C1.Location = new System.Drawing.Point(20, 143);
-            this.C1.Name = "C1";
-            this.C1.Size = new System.Drawing.Size(56, 36);
-            this.C1.TabIndex = 10;
-            this.C1.Text = "C1";
-            this.C1.UseVisualStyleBackColor = false;
-            this.C1.Click += new System.EventHandler(this.C1_Click);
-            // 
-            // D5
-            // 
-            this.D5.BackColor = System.Drawing.Color.Lime;
-            this.D5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.D5.Location = new System.Drawing.Point(338, 199);
-            this.D5.Name = "D5";
-            this.D5.Size = new System.Drawing.Size(56, 36);
-            this.D5.TabIndex = 19;
-            this.D5.Text = "D5";
-            this.D5.UseVisualStyleBackColor = false;
-            this.D5.Click += new System.EventHandler(this.D5_Click);
-            // 
-            // D4
-            // 
-            this.D4.BackColor = System.Drawing.Color.Lime;
-            this.D4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.D4.Location = new System.Drawing.Point(258, 199);
-            this.D4.Name = "D4";
-            this.D4.Size = new System.Drawing.Size(56, 36);
-            this.D4.TabIndex = 18;
-            this.D4.Text = "D4";
-            this.D4.UseVisualStyleBackColor = false;
-            this.D4.Click += new System.EventHandler(this.D4_Click);
-            // 
-            // D3
-            // 
-            this.D3.BackColor = System.Drawing.Color.Lime;
-            this.D3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.D3.Location = new System.Drawing.Point(179, 199);
-            this.D3.Name = "D3";
-            this.D3.Size = new System.Drawing.Size(56, 36);
-            this.D3.TabIndex = 17;
-            this.D3.Text = "D3";
-            this.D3.UseVisualStyleBackColor = false;
-            this.D3.Click += new System.EventHandler(this.D3_Click);
-            // 
-            // D2
-            // 
-            this.D2.BackColor = System.Drawing.Color.Lime;
-            this.D2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.D2.Location = new System.Drawing.Point(100, 199);
-            this.D2.Name = "D2";
-            this.D2.Size = new System.Drawing.Size(56, 36);
-            this.D2.TabIndex = 16;
-            this.D2.Text = "D2";
-            this.D2.UseVisualStyleBackColor = false;
-            this.D2.Click += new System.EventHandler(this.D2_Click);
-            // 
-            // D1
-            // 
-            this.D1.BackColor = System.Drawing.Color.Lime;
-            this.D1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.D1.Location = new System.Drawing.Point(21, 199);
-            this.D1.Name = "D1";
-            this.D1.Size = new System.Drawing.Size(56, 36);
-            this.D1.TabIndex = 15;
-            this.D1.Text = "D1";
-            this.D1.UseVisualStyleBackColor = false;
-            this.D1.Click += new System.EventHandler(this.button20_Click);
-            // 
-            // E5
-            // 
-            this.E5.BackColor = System.Drawing.Color.Lime;
-            this.E5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.E5.Location = new System.Drawing.Point(337, 254);
-            this.E5.Name = "E5";
-            this.E5.Size = new System.Drawing.Size(56, 36);
-            this.E5.TabIndex = 24;
-            this.E5.Text = "E5";
-            this.E5.UseVisualStyleBackColor = false;
-            this.E5.Click += new System.EventHandler(this.E5_Click);
-            // 
-            // E4
-            // 
-            this.E4.BackColor = System.Drawing.Color.Lime;
-            this.E4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.E4.Location = new System.Drawing.Point(257, 254);
-            this.E4.Name = "E4";
-            this.E4.Size = new System.Drawing.Size(56, 36);
-            this.E4.TabIndex = 23;
-            this.E4.Text = "E4";
-            this.E4.UseVisualStyleBackColor = false;
-            this.E4.Click += new System.EventHandler(this.E4_Click);
-            // 
-            // E3
-            // 
-            this.E3.BackColor = System.Drawing.Color.Lime;
-            this.E3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.E3.Location = new System.Drawing.Point(178, 254);
-            this.E3.Name = "E3";
-            this.E3.Size = new System.Drawing.Size(56, 36);
-            this.E3.TabIndex = 22;
-            this.E3.Text = "E3";
-            this.E3.UseVisualStyleBackColor = false;
-            this.E3.Click += new System.EventHandler(this.E3_Click);
-            // 
-            // E2
-            // 
-            this.E2.BackColor = System.Drawing.Color.Lime;
-            this.E2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.E2.Location = new System.Drawing.Point(99, 254);
-            this.E2.Name = "E2";
-            this.E2.Size = new System.Drawing.Size(56, 36);
-            this.E2.TabIndex = 21;
-            this.E2.Text = "E2";
-            this.E2.UseVisualStyleBackColor = false;
-            this.E2.Click += new System.EventHandler(this.E2_Click);
-            // 
-            // E1
-            // 
-            this.E1.BackColor = System.Drawing.Color.Lime;
-            this.E1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.E1.Location = new System.Drawing.Point(20, 254);
-            this.E1.Name = "E1";
-            this.E1.Size = new System.Drawing.Size(56, 36);
-            this.E1.TabIndex = 20;
-            this.E1.Text = "E1";
-            this.E1.UseVisualStyleBackColor = false;
-            this.E1.Click += new System.EventHandler(this.E1_Click);
+            this.txtplate.Location = new System.Drawing.Point(21, 57);
+            this.txtplate.Margin = new System.Windows.Forms.Padding(4);
+            this.txtplate.Name = "txtplate";
+            this.txtplate.Size = new System.Drawing.Size(221, 22);
+            this.txtplate.TabIndex = 4;
+            this.txtplate.TextChanged += new System.EventHandler(this.txtplate_TextChanged);
             // 
             // F5
             // 
             this.F5.BackColor = System.Drawing.Color.Lime;
             this.F5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.F5.Location = new System.Drawing.Point(563, 371);
+            this.F5.Location = new System.Drawing.Point(751, 457);
+            this.F5.Margin = new System.Windows.Forms.Padding(4);
             this.F5.Name = "F5";
-            this.F5.Size = new System.Drawing.Size(56, 36);
+            this.F5.Size = new System.Drawing.Size(75, 44);
             this.F5.TabIndex = 29;
             this.F5.Text = "F5";
             this.F5.UseVisualStyleBackColor = false;
@@ -570,9 +705,10 @@
             // 
             this.F4.BackColor = System.Drawing.Color.Lime;
             this.F4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.F4.Location = new System.Drawing.Point(483, 371);
+            this.F4.Location = new System.Drawing.Point(644, 457);
+            this.F4.Margin = new System.Windows.Forms.Padding(4);
             this.F4.Name = "F4";
-            this.F4.Size = new System.Drawing.Size(56, 36);
+            this.F4.Size = new System.Drawing.Size(75, 44);
             this.F4.TabIndex = 28;
             this.F4.Text = "F4";
             this.F4.UseVisualStyleBackColor = false;
@@ -582,9 +718,10 @@
             // 
             this.F3.BackColor = System.Drawing.Color.Lime;
             this.F3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.F3.Location = new System.Drawing.Point(404, 371);
+            this.F3.Location = new System.Drawing.Point(539, 457);
+            this.F3.Margin = new System.Windows.Forms.Padding(4);
             this.F3.Name = "F3";
-            this.F3.Size = new System.Drawing.Size(56, 36);
+            this.F3.Size = new System.Drawing.Size(75, 44);
             this.F3.TabIndex = 27;
             this.F3.Text = "F3";
             this.F3.UseVisualStyleBackColor = false;
@@ -594,9 +731,10 @@
             // 
             this.F2.BackColor = System.Drawing.Color.Lime;
             this.F2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.F2.Location = new System.Drawing.Point(325, 371);
+            this.F2.Location = new System.Drawing.Point(433, 457);
+            this.F2.Margin = new System.Windows.Forms.Padding(4);
             this.F2.Name = "F2";
-            this.F2.Size = new System.Drawing.Size(56, 36);
+            this.F2.Size = new System.Drawing.Size(75, 44);
             this.F2.TabIndex = 26;
             this.F2.Text = "F2";
             this.F2.UseVisualStyleBackColor = false;
@@ -606,73 +744,14 @@
             // 
             this.F1.BackColor = System.Drawing.Color.Lime;
             this.F1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.F1.Location = new System.Drawing.Point(246, 371);
+            this.F1.Location = new System.Drawing.Point(328, 457);
+            this.F1.Margin = new System.Windows.Forms.Padding(4);
             this.F1.Name = "F1";
-            this.F1.Size = new System.Drawing.Size(56, 36);
+            this.F1.Size = new System.Drawing.Size(75, 44);
             this.F1.TabIndex = 25;
             this.F1.Text = "F1";
             this.F1.UseVisualStyleBackColor = false;
             this.F1.Click += new System.EventHandler(this.F1_Click);
-            // 
-            // G5
-            // 
-            this.G5.BackColor = System.Drawing.Color.Lime;
-            this.G5.ForeColor = System.Drawing.Color.OliveDrab;
-            this.G5.Location = new System.Drawing.Point(337, 370);
-            this.G5.Name = "G5";
-            this.G5.Size = new System.Drawing.Size(56, 36);
-            this.G5.TabIndex = 29;
-            this.G5.Text = "G5";
-            this.G5.UseVisualStyleBackColor = false;
-            this.G5.Click += new System.EventHandler(this.G5_Click);
-            // 
-            // G4
-            // 
-            this.G4.BackColor = System.Drawing.Color.Lime;
-            this.G4.ForeColor = System.Drawing.Color.OliveDrab;
-            this.G4.Location = new System.Drawing.Point(257, 370);
-            this.G4.Name = "G4";
-            this.G4.Size = new System.Drawing.Size(56, 36);
-            this.G4.TabIndex = 28;
-            this.G4.Text = "G4";
-            this.G4.UseVisualStyleBackColor = false;
-            this.G4.Click += new System.EventHandler(this.G4_Click);
-            // 
-            // G3
-            // 
-            this.G3.BackColor = System.Drawing.Color.Lime;
-            this.G3.ForeColor = System.Drawing.Color.OliveDrab;
-            this.G3.Location = new System.Drawing.Point(178, 370);
-            this.G3.Name = "G3";
-            this.G3.Size = new System.Drawing.Size(56, 36);
-            this.G3.TabIndex = 27;
-            this.G3.Text = "G3";
-            this.G3.UseVisualStyleBackColor = false;
-            this.G3.Click += new System.EventHandler(this.G3_Click);
-            // 
-            // G2
-            // 
-            this.G2.BackColor = System.Drawing.Color.Lime;
-            this.G2.ForeColor = System.Drawing.Color.OliveDrab;
-            this.G2.Location = new System.Drawing.Point(99, 370);
-            this.G2.Name = "G2";
-            this.G2.Size = new System.Drawing.Size(56, 36);
-            this.G2.TabIndex = 26;
-            this.G2.Text = "G2";
-            this.G2.UseVisualStyleBackColor = false;
-            this.G2.Click += new System.EventHandler(this.G2_Click);
-            // 
-            // G1
-            // 
-            this.G1.BackColor = System.Drawing.Color.Lime;
-            this.G1.ForeColor = System.Drawing.Color.OliveDrab;
-            this.G1.Location = new System.Drawing.Point(20, 370);
-            this.G1.Name = "G1";
-            this.G1.Size = new System.Drawing.Size(56, 36);
-            this.G1.TabIndex = 25;
-            this.G1.Text = "G1";
-            this.G1.UseVisualStyleBackColor = false;
-            this.G1.Click += new System.EventHandler(this.G1_Click);
             // 
             // groupBox3
             // 
@@ -686,13 +765,136 @@
             this.groupBox3.Controls.Add(this.label7);
             this.groupBox3.Controls.Add(this.label6);
             this.groupBox3.Controls.Add(this.label5);
-            this.groupBox3.Location = new System.Drawing.Point(654, 55);
+            this.groupBox3.Location = new System.Drawing.Point(872, 68);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(200, 214);
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Size = new System.Drawing.Size(267, 263);
             this.groupBox3.TabIndex = 5;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Current Transaction";
             this.groupBox3.UseWaitCursor = true;
+            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
+            // 
+            // displayovertime
+            // 
+            this.displayovertime.AutoSize = true;
+            this.displayovertime.Location = new System.Drawing.Point(121, 238);
+            this.displayovertime.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayovertime.Name = "displayovertime";
+            this.displayovertime.Size = new System.Drawing.Size(14, 16);
+            this.displayovertime.TabIndex = 42;
+            this.displayovertime.Text = "3";
+            this.displayovertime.UseWaitCursor = true;
+            this.displayovertime.Visible = false;
+            this.displayovertime.Click += new System.EventHandler(this.displayovertime_Click);
+            // 
+            // displayslot
+            // 
+            this.displayslot.AutoSize = true;
+            this.displayslot.Location = new System.Drawing.Point(121, 194);
+            this.displayslot.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayslot.Name = "displayslot";
+            this.displayslot.Size = new System.Drawing.Size(14, 16);
+            this.displayslot.TabIndex = 41;
+            this.displayslot.Text = "3";
+            this.displayslot.UseWaitCursor = true;
+            this.displayslot.Visible = false;
+            this.displayslot.Click += new System.EventHandler(this.displayslot_Click);
+            // 
+            // displayduration
+            // 
+            this.displayduration.AutoSize = true;
+            this.displayduration.Location = new System.Drawing.Point(121, 149);
+            this.displayduration.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayduration.Name = "displayduration";
+            this.displayduration.Size = new System.Drawing.Size(14, 16);
+            this.displayduration.TabIndex = 40;
+            this.displayduration.Text = "3";
+            this.displayduration.UseWaitCursor = true;
+            this.displayduration.Visible = false;
+            this.displayduration.Click += new System.EventHandler(this.displayduration_Click);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(88, 210);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(88, 16);
+            this.label9.TabIndex = 4;
+            this.label9.Text = "Overtime Fee";
+            this.label9.UseWaitCursor = true;
+            // 
+            // displayvehicle
+            // 
+            this.displayvehicle.AutoSize = true;
+            this.displayvehicle.Location = new System.Drawing.Point(121, 103);
+            this.displayvehicle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayvehicle.Name = "displayvehicle";
+            this.displayvehicle.Size = new System.Drawing.Size(14, 16);
+            this.displayvehicle.TabIndex = 39;
+            this.displayvehicle.Text = "2";
+            this.displayvehicle.UseWaitCursor = true;
+            this.displayvehicle.Visible = false;
+            this.displayvehicle.Click += new System.EventHandler(this.displayvehicle_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(116, 170);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(30, 16);
+            this.label8.TabIndex = 3;
+            this.label8.Text = "Slot";
+            this.label8.UseWaitCursor = true;
+            // 
+            // displayplatenumber
+            // 
+            this.displayplatenumber.AutoSize = true;
+            this.displayplatenumber.Location = new System.Drawing.Point(121, 57);
+            this.displayplatenumber.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayplatenumber.Name = "displayplatenumber";
+            this.displayplatenumber.Size = new System.Drawing.Size(14, 16);
+            this.displayplatenumber.TabIndex = 38;
+            this.displayplatenumber.Text = "1";
+            this.displayplatenumber.UseWaitCursor = true;
+            this.displayplatenumber.Visible = false;
+            this.displayplatenumber.Click += new System.EventHandler(this.displayplatenumber_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(100, 129);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(57, 16);
+            this.label7.TabIndex = 2;
+            this.label7.Text = "Duration";
+            this.label7.UseWaitCursor = true;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(88, 81);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(76, 16);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Vehicle Info";
+            this.label6.UseWaitCursor = true;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(87, 37);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(89, 16);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Plate Number";
+            this.label5.UseWaitCursor = true;
             // 
             // groupBox4
             // 
@@ -702,12 +904,81 @@
             this.groupBox4.Controls.Add(this.displaystandardfee);
             this.groupBox4.Controls.Add(this.label11);
             this.groupBox4.Controls.Add(this.label10);
-            this.groupBox4.Location = new System.Drawing.Point(654, 275);
+            this.groupBox4.Location = new System.Drawing.Point(872, 338);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(200, 112);
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox4.Size = new System.Drawing.Size(267, 138);
             this.groupBox4.TabIndex = 6;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Fee Calculation";
+            this.groupBox4.Enter += new System.EventHandler(this.groupBox4_Enter);
+            // 
+            // displaytotal
+            // 
+            this.displaytotal.AutoSize = true;
+            this.displaytotal.Location = new System.Drawing.Point(180, 105);
+            this.displaytotal.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displaytotal.Name = "displaytotal";
+            this.displaytotal.Size = new System.Drawing.Size(14, 16);
+            this.displaytotal.TabIndex = 37;
+            this.displaytotal.Text = "3";
+            this.displaytotal.Visible = false;
+            this.displaytotal.Click += new System.EventHandler(this.label18_Click);
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(28, 105);
+            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(41, 16);
+            this.label12.TabIndex = 7;
+            this.label12.Text = "Total:";
+            // 
+            // displayservicecharge
+            // 
+            this.displayservicecharge.AutoSize = true;
+            this.displayservicecharge.Location = new System.Drawing.Point(180, 78);
+            this.displayservicecharge.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displayservicecharge.Name = "displayservicecharge";
+            this.displayservicecharge.Size = new System.Drawing.Size(14, 16);
+            this.displayservicecharge.TabIndex = 36;
+            this.displayservicecharge.Text = "2";
+            this.displayservicecharge.Visible = false;
+            this.displayservicecharge.Click += new System.EventHandler(this.displayservicecharge_Click);
+            // 
+            // displaystandardfee
+            // 
+            this.displaystandardfee.AutoSize = true;
+            this.displaystandardfee.Location = new System.Drawing.Point(180, 48);
+            this.displaystandardfee.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displaystandardfee.Name = "displaystandardfee";
+            this.displaystandardfee.Size = new System.Drawing.Size(14, 16);
+            this.displaystandardfee.TabIndex = 5;
+            this.displaystandardfee.Text = "1";
+            this.displaystandardfee.Visible = false;
+            this.displaystandardfee.Click += new System.EventHandler(this.displaystandardfee_Click);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(28, 75);
+            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(103, 16);
+            this.label11.TabIndex = 6;
+            this.label11.Text = "Service Charge:";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(28, 47);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(92, 16);
+            this.label10.TabIndex = 5;
+            this.label10.Text = "Standard Fee:";
             // 
             // groupBox5
             // 
@@ -721,303 +992,134 @@
             this.groupBox5.Controls.Add(this.label13);
             this.groupBox5.Controls.Add(this.label14);
             this.groupBox5.Controls.Add(this.label15);
-            this.groupBox5.Location = new System.Drawing.Point(873, 55);
+            this.groupBox5.Location = new System.Drawing.Point(1164, 68);
+            this.groupBox5.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(200, 426);
+            this.groupBox5.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox5.Size = new System.Drawing.Size(267, 524);
             this.groupBox5.TabIndex = 6;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Payment and Receipt";
+            this.groupBox5.Enter += new System.EventHandler(this.groupBox5_Enter);
             // 
-            // label5
+            // rtxtreceipt
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(65, 30);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(71, 13);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Plate Number";
+            this.rtxtreceipt.Location = new System.Drawing.Point(27, 135);
+            this.rtxtreceipt.Margin = new System.Windows.Forms.Padding(4);
+            this.rtxtreceipt.Name = "rtxtreceipt";
+            this.rtxtreceipt.Size = new System.Drawing.Size(219, 232);
+            this.rtxtreceipt.TabIndex = 41;
+            this.rtxtreceipt.Text = "";
+            this.rtxtreceipt.TextChanged += new System.EventHandler(this.rtxtreceipt_TextChanged);
             // 
-            // label6
+            // txtpayamount
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(66, 66);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(63, 13);
-            this.label6.TabIndex = 1;
-            this.label6.Text = "Vehicle Info";
+            this.txtpayamount.Location = new System.Drawing.Point(116, 76);
+            this.txtpayamount.Margin = new System.Windows.Forms.Padding(4);
+            this.txtpayamount.Name = "txtpayamount";
+            this.txtpayamount.Size = new System.Drawing.Size(141, 22);
+            this.txtpayamount.TabIndex = 40;
+            this.txtpayamount.TextChanged += new System.EventHandler(this.txtpayamount_TextChanged);
             // 
-            // label7
+            // cbxdiscount
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(75, 105);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(47, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "Duration";
+            this.cbxdiscount.FormattingEnabled = true;
+            this.cbxdiscount.Location = new System.Drawing.Point(116, 43);
+            this.cbxdiscount.Margin = new System.Windows.Forms.Padding(4);
+            this.cbxdiscount.Name = "cbxdiscount";
+            this.cbxdiscount.Size = new System.Drawing.Size(141, 24);
+            this.cbxdiscount.TabIndex = 39;
+            this.cbxdiscount.SelectedIndexChanged += new System.EventHandler(this.cbxdiscount_SelectedIndexChanged);
             // 
-            // label8
+            // displaychange
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(87, 138);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(25, 13);
-            this.label8.TabIndex = 3;
-            this.label8.Text = "Slot";
+            this.displaychange.AutoSize = true;
+            this.displaychange.Location = new System.Drawing.Point(165, 111);
+            this.displaychange.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.displaychange.Name = "displaychange";
+            this.displaychange.Size = new System.Drawing.Size(14, 16);
+            this.displaychange.TabIndex = 38;
+            this.displaychange.Text = "0";
+            this.displaychange.Visible = false;
+            this.displaychange.Click += new System.EventHandler(this.displaychange_Click);
             // 
-            // label9
+            // btnclear
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(66, 171);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(70, 13);
-            this.label9.TabIndex = 4;
-            this.label9.Text = "Overtime Fee";
+            this.btnclear.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnclear.Location = new System.Drawing.Point(49, 473);
+            this.btnclear.Margin = new System.Windows.Forms.Padding(4);
+            this.btnclear.Name = "btnclear";
+            this.btnclear.Size = new System.Drawing.Size(171, 38);
+            this.btnclear.TabIndex = 33;
+            this.btnclear.Text = "Clear Form\r\n";
+            this.btnclear.UseVisualStyleBackColor = true;
+            this.btnclear.Click += new System.EventHandler(this.button38_Click);
             // 
-            // contextMenuStrip1
+            // btngenerate
             // 
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
+            this.btngenerate.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btngenerate.Location = new System.Drawing.Point(49, 427);
+            this.btngenerate.Margin = new System.Windows.Forms.Padding(4);
+            this.btngenerate.Name = "btngenerate";
+            this.btngenerate.Size = new System.Drawing.Size(171, 38);
+            this.btngenerate.TabIndex = 34;
+            this.btngenerate.Text = "Generate Receipt";
+            this.btngenerate.UseVisualStyleBackColor = true;
+            this.btngenerate.Click += new System.EventHandler(this.button40_Click);
             // 
-            // label10
+            // btnprocess
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(21, 38);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(74, 13);
-            this.label10.TabIndex = 5;
-            this.label10.Text = "Standard Fee:";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(21, 61);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(83, 13);
-            this.label11.TabIndex = 6;
-            this.label11.Text = "Service Charge:";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(21, 85);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(34, 13);
-            this.label12.TabIndex = 7;
-            this.label12.Text = "Total:";
+            this.btnprocess.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.btnprocess.Location = new System.Drawing.Point(49, 375);
+            this.btnprocess.Margin = new System.Windows.Forms.Padding(4);
+            this.btnprocess.Name = "btnprocess";
+            this.btnprocess.Size = new System.Drawing.Size(171, 38);
+            this.btnprocess.TabIndex = 32;
+            this.btnprocess.Text = "Process Payment";
+            this.btnprocess.UseVisualStyleBackColor = true;
+            this.btnprocess.Click += new System.EventHandler(this.btnprocess_Click);
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(17, 90);
+            this.label13.Location = new System.Drawing.Point(23, 111);
+            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(44, 13);
+            this.label13.Size = new System.Drawing.Size(54, 16);
             this.label13.TabIndex = 10;
             this.label13.Text = "Change";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(17, 66);
+            this.label14.Location = new System.Drawing.Point(23, 81);
+            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(64, 13);
+            this.label14.Size = new System.Drawing.Size(79, 16);
             this.label14.TabIndex = 9;
             this.label14.Text = "Pay Amount";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(17, 38);
+            this.label15.Location = new System.Drawing.Point(23, 47);
+            this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(49, 13);
+            this.label15.Size = new System.Drawing.Size(59, 16);
             this.label15.TabIndex = 8;
             this.label15.Text = "Discount";
             // 
-            // btnregistervehicle
+            // contextMenuStrip1
             // 
-            this.btnregistervehicle.BackColor = System.Drawing.SystemColors.ControlText;
-            this.btnregistervehicle.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnregistervehicle.Location = new System.Drawing.Point(39, 71);
-            this.btnregistervehicle.Name = "btnregistervehicle";
-            this.btnregistervehicle.Size = new System.Drawing.Size(128, 36);
-            this.btnregistervehicle.TabIndex = 30;
-            this.btnregistervehicle.Text = "Register Vehicle";
-            this.btnregistervehicle.UseVisualStyleBackColor = false;
-            this.btnregistervehicle.Click += new System.EventHandler(this.btnregistervehicle_Click);
-            // 
-            // btnupdate
-            // 
-            this.btnupdate.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnupdate.Location = new System.Drawing.Point(39, 130);
-            this.btnupdate.Name = "btnupdate";
-            this.btnupdate.Size = new System.Drawing.Size(128, 36);
-            this.btnupdate.TabIndex = 31;
-            this.btnupdate.Text = "Update Status\r\n";
-            this.btnupdate.UseVisualStyleBackColor = true;
-            this.btnupdate.Click += new System.EventHandler(this.btnupdate_Click);
-            // 
-            // btnclear
-            // 
-            this.btnclear.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnclear.Location = new System.Drawing.Point(37, 384);
-            this.btnclear.Name = "btnclear";
-            this.btnclear.Size = new System.Drawing.Size(128, 31);
-            this.btnclear.TabIndex = 33;
-            this.btnclear.Text = "Clear Form\r\n";
-            this.btnclear.UseVisualStyleBackColor = true;
-            this.btnclear.Click += new System.EventHandler(this.button38_Click);
-            // 
-            // btnprocess
-            // 
-            this.btnprocess.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btnprocess.Location = new System.Drawing.Point(37, 305);
-            this.btnprocess.Name = "btnprocess";
-            this.btnprocess.Size = new System.Drawing.Size(128, 31);
-            this.btnprocess.TabIndex = 32;
-            this.btnprocess.Text = "Process Payment";
-            this.btnprocess.UseVisualStyleBackColor = true;
-            this.btnprocess.Click += new System.EventHandler(this.btnprocess_Click);
-            // 
-            // btngenerate
-            // 
-            this.btngenerate.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btngenerate.Location = new System.Drawing.Point(37, 347);
-            this.btngenerate.Name = "btngenerate";
-            this.btngenerate.Size = new System.Drawing.Size(128, 31);
-            this.btngenerate.TabIndex = 34;
-            this.btngenerate.Text = "Generate Receipt";
-            this.btngenerate.UseVisualStyleBackColor = true;
-            this.btngenerate.Click += new System.EventHandler(this.button40_Click);
-            // 
-            // displaytotal
-            // 
-            this.displaytotal.AutoSize = true;
-            this.displaytotal.Location = new System.Drawing.Point(135, 85);
-            this.displaytotal.Name = "displaytotal";
-            this.displaytotal.Size = new System.Drawing.Size(13, 13);
-            this.displaytotal.TabIndex = 37;
-            this.displaytotal.Text = "3";
-            this.displaytotal.Visible = false;
-            this.displaytotal.Click += new System.EventHandler(this.label18_Click);
-            // 
-            // displayduration
-            // 
-            this.displayduration.AutoSize = true;
-            this.displayduration.Location = new System.Drawing.Point(91, 121);
-            this.displayduration.Name = "displayduration";
-            this.displayduration.Size = new System.Drawing.Size(13, 13);
-            this.displayduration.TabIndex = 40;
-            this.displayduration.Text = "3";
-            this.displayduration.Visible = false;
-            this.displayduration.Click += new System.EventHandler(this.displayduration_Click);
-            // 
-            // displayvehicle
-            // 
-            this.displayvehicle.AutoSize = true;
-            this.displayvehicle.Location = new System.Drawing.Point(91, 84);
-            this.displayvehicle.Name = "displayvehicle";
-            this.displayvehicle.Size = new System.Drawing.Size(13, 13);
-            this.displayvehicle.TabIndex = 39;
-            this.displayvehicle.Text = "2";
-            this.displayvehicle.Visible = false;
-            this.displayvehicle.Click += new System.EventHandler(this.displayvehicle_Click);
-            // 
-            // displayplatenumber
-            // 
-            this.displayplatenumber.AutoSize = true;
-            this.displayplatenumber.Location = new System.Drawing.Point(91, 46);
-            this.displayplatenumber.Name = "displayplatenumber";
-            this.displayplatenumber.Size = new System.Drawing.Size(13, 13);
-            this.displayplatenumber.TabIndex = 38;
-            this.displayplatenumber.Text = "1";
-            this.displayplatenumber.Visible = false;
-            this.displayplatenumber.Click += new System.EventHandler(this.displayplatenumber_Click);
-            // 
-            // displayslot
-            // 
-            this.displayslot.AutoSize = true;
-            this.displayslot.Location = new System.Drawing.Point(91, 158);
-            this.displayslot.Name = "displayslot";
-            this.displayslot.Size = new System.Drawing.Size(13, 13);
-            this.displayslot.TabIndex = 41;
-            this.displayslot.Text = "3";
-            this.displayslot.Visible = false;
-            this.displayslot.Click += new System.EventHandler(this.displayslot_Click);
-            // 
-            // displayovertime
-            // 
-            this.displayovertime.AutoSize = true;
-            this.displayovertime.Location = new System.Drawing.Point(91, 193);
-            this.displayovertime.Name = "displayovertime";
-            this.displayovertime.Size = new System.Drawing.Size(13, 13);
-            this.displayovertime.TabIndex = 42;
-            this.displayovertime.Text = "3";
-            this.displayovertime.Visible = false;
-            this.displayovertime.Click += new System.EventHandler(this.displayovertime_Click);
-            // 
-            // displayservicecharge
-            // 
-            this.displayservicecharge.AutoSize = true;
-            this.displayservicecharge.Location = new System.Drawing.Point(135, 63);
-            this.displayservicecharge.Name = "displayservicecharge";
-            this.displayservicecharge.Size = new System.Drawing.Size(13, 13);
-            this.displayservicecharge.TabIndex = 36;
-            this.displayservicecharge.Text = "2";
-            this.displayservicecharge.Visible = false;
-            this.displayservicecharge.Click += new System.EventHandler(this.displayservicecharge_Click);
-            // 
-            // displaystandardfee
-            // 
-            this.displaystandardfee.AutoSize = true;
-            this.displaystandardfee.Location = new System.Drawing.Point(135, 39);
-            this.displaystandardfee.Name = "displaystandardfee";
-            this.displaystandardfee.Size = new System.Drawing.Size(13, 13);
-            this.displaystandardfee.TabIndex = 5;
-            this.displaystandardfee.Text = "1";
-            this.displaystandardfee.Visible = false;
-            this.displaystandardfee.Click += new System.EventHandler(this.displaystandardfee_Click);
-            // 
-            // displaychange
-            // 
-            this.displaychange.AutoSize = true;
-            this.displaychange.Location = new System.Drawing.Point(124, 90);
-            this.displaychange.Name = "displaychange";
-            this.displaychange.Size = new System.Drawing.Size(13, 13);
-            this.displaychange.TabIndex = 38;
-            this.displaychange.Text = "0";
-            this.displaychange.Visible = false;
-            this.displaychange.Click += new System.EventHandler(this.displaychange_Click);
-            // 
-            // cbxdiscount
-            // 
-            this.cbxdiscount.FormattingEnabled = true;
-            this.cbxdiscount.Location = new System.Drawing.Point(87, 35);
-            this.cbxdiscount.Name = "cbxdiscount";
-            this.cbxdiscount.Size = new System.Drawing.Size(107, 21);
-            this.cbxdiscount.TabIndex = 39;
-            this.cbxdiscount.SelectedIndexChanged += new System.EventHandler(this.cbxdiscount_SelectedIndexChanged);
-            // 
-            // txtpayamount
-            // 
-            this.txtpayamount.Location = new System.Drawing.Point(87, 62);
-            this.txtpayamount.Name = "txtpayamount";
-            this.txtpayamount.Size = new System.Drawing.Size(107, 20);
-            this.txtpayamount.TabIndex = 40;
-            this.txtpayamount.TextChanged += new System.EventHandler(this.txtpayamount_TextChanged);
-            // 
-            // rtxtreceipt
-            // 
-            this.rtxtreceipt.Location = new System.Drawing.Point(20, 110);
-            this.rtxtreceipt.Name = "rtxtreceipt";
-            this.rtxtreceipt.Size = new System.Drawing.Size(165, 189);
-            this.rtxtreceipt.TabIndex = 41;
-            this.rtxtreceipt.Text = "";
-            this.rtxtreceipt.TextChanged += new System.EventHandler(this.rtxtreceipt_TextChanged);
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1118, 493);
+            this.ClientSize = new System.Drawing.Size(1491, 607);
             this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
@@ -1029,6 +1131,7 @@
             this.Controls.Add(this.regbox);
             this.Controls.Add(this.F1);
             this.Controls.Add(this.groupBox2);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
